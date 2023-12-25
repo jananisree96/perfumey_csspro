@@ -21,9 +21,14 @@ Perfumy is a website that offers a curated collection of high-quality perfumes. 
 - **Contact Information:** Reach out to us via phone or email for any inquiries.
 
 ## Usage
+Open the index.html file in your web browser.
 
-1. Clone the repository:
+Explore our range of perfumes and enjoy the shopping experience.
 
-   ```bash
-   git clone https://github.com/yourusername/perfumy-website.git
+## About Us
+Discover the story behind Perfumy and our passion for delivering exceptional fragrances. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis est ac ante varius hendrerit.
+
+## Contact
+Phone: +91 3478631928
+Email: Perfumy@gmail.com
 
